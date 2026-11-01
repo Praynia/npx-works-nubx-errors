@@ -1,0 +1,7 @@
+{
+    "name": "@repro/cli",
+    "version": "0.0.0",
+    "bin": {
+        "hello": "./bin.cjs"
+    }
+}
